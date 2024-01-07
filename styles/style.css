@@ -101,7 +101,8 @@ padding-bottom: 30px;
 /*main section styles */
 main{
     max-width: 1140px;
-    margin: 0, auto;
+    margin-left: auto;
+    margin-right: auto;
     
 
 }
